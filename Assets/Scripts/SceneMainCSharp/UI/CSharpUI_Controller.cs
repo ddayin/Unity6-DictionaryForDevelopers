@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class CSharpUI_Controller : MonoBehaviour
     {

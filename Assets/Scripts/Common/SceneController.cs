@@ -1,7 +1,7 @@
 using UnityEngine.SceneManagement;
 using WanzyeeStudio;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public enum SceneName
     {

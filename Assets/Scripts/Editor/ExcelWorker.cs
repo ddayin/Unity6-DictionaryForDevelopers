@@ -8,7 +8,7 @@ using Cathei.BakingSheet;
 using UnityEditor;
 using UnityEngine;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class ExcelPostprocessor : AssetPostprocessor
     {

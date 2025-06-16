@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using TMPro;
 using System.Net.Http.Headers;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public enum CategoryButtonState
     {

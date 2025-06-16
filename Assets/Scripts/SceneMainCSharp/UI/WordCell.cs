@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 using UnityEngine.SceneManagement;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class WordCell : MonoBehaviour, ICell
     {

@@ -2,7 +2,7 @@ using Cathei.BakingSheet.Unity;
 using Cathei.BakingSheet;
 using UnityEngine;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class SceneTitle_Manager : MonoBehaviour
     {

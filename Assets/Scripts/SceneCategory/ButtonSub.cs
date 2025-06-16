@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class ButtonSub : MonoBehaviour
     {

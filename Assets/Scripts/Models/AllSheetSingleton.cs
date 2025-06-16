@@ -1,7 +1,7 @@
 using UnityEngine;
 using WanzyeeStudio;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class AllSheetSingleton : BaseSingleton<AllSheetSingleton>
     {

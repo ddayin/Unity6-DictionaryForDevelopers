@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class LoginController : MonoBehaviour
     {

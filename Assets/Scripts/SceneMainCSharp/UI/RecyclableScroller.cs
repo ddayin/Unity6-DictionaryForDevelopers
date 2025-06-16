@@ -4,7 +4,7 @@ using PolyAndCode.UI;
 using TMPro;
 using UnityEngine;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class RecyclableScroller : MonoBehaviour, IRecyclableScrollRectDataSource
     {

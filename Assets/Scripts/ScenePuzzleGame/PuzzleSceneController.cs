@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class PuzzleSceneController : MonoBehaviour
     {

@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class GeneralUI_Controller : MonoBehaviour
     {

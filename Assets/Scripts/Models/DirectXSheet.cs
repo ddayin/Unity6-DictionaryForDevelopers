@@ -1,7 +1,7 @@
 using Cathei.BakingSheet;
 using UnityEngine;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class DirectXSheet : Sheet<string, DirectXSheet.Row>
     {

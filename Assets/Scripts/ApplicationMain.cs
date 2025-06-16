@@ -1,7 +1,6 @@
-using System;
 using UnityEngine;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class ApplicationMain : MonoBehaviour
     {

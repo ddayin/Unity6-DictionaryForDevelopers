@@ -1,7 +1,7 @@
 using UnityEngine;
 using Cathei.BakingSheet;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class CsharpSheet : Sheet<CsharpSheet.Row>
     {

@@ -2,7 +2,7 @@ using Cathei.BakingSheet.Examples;
 using Cathei.BakingSheet;
 using UnityEngine;
 
-namespace AssembleWords
+namespace Dictionary
 {
     public class Unity6Sheet : Sheet<string, Unity6Sheet.Row>
     {
